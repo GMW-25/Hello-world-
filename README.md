@@ -1,2 +1,2 @@
 # Hello-world-
-the firest repository inmy life
+the first repository inmy life
